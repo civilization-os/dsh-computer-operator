@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-computer-operator
+      name: "@civilization/dsh-computer-operator"
